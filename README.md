@@ -1,6 +1,8 @@
 # Convo-Culture-Test-Automation
 Automation test scripts for www.convoculture.ca
 
+![alt_text](https://github.com/frostie/Xerienstone/blob/master/Assets/Screen%20Shots/Xerienstone%20Title.png)
+
 # Tools
 - Selenium WebDriver
 - Java
