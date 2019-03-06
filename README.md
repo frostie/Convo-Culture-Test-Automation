@@ -6,7 +6,7 @@ Automation test scripts for www.convoculture.ca
 - Java
 
 # Test Scripts
-## Home Page Access
+## 1.0 Home Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
@@ -14,3 +14,14 @@ Automation test scripts for www.convoculture.ca
     1.5: Exit browser.
     1.6: Print: "Test passed" in console.
     1.7: End script.
+
+## 2.0 About Page Access
+    1.1: Open Safari browser.
+    1.2: Maximize browser screen.
+    1.3: Go to: http://www.convoculture.ca.
+    1.4: Click on 'About' link.
+    1.5: Wait 3 seconds.
+    1.6: Exit browser.
+    1.7: Print: "Test passed" in console.
+    1.8: End script.
+ 
