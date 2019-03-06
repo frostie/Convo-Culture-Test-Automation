@@ -66,7 +66,7 @@ Automation test scripts for www.convoculture.ca
     1.7: Print: "Test passed" in console.
     1.8: End script.
 
- ### 7.0 Contact Page Access
+ ### 7.0 Forum Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
