@@ -6,6 +6,7 @@ Automation test scripts for www.convoculture.ca
 # Tools
 - Java
 - Selenium WebDriver
+- TestNG
 - Cucumber
 
 # Next Actions
