@@ -7,7 +7,7 @@ Automation test scripts for www.convoculture.ca
 
 # Test Scripts
 ## Access Tests
-## 1.0 Home Page Access
+### 1.0 Home Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
@@ -16,7 +16,7 @@ Automation test scripts for www.convoculture.ca
     1.6: Print: "Test passed" in console.
     1.7: End script.
 
-## 2.0 About Page Access
+### 2.0 About Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
@@ -26,7 +26,7 @@ Automation test scripts for www.convoculture.ca
     1.7: Print: "Test passed" in console.
     1.8: End script.
  
- ## 3.0 Lessons Page Access
+ ### 3.0 Lessons Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
@@ -36,7 +36,7 @@ Automation test scripts for www.convoculture.ca
     1.7: Print: "Test passed" in console.
     1.8: End script.
 
- ## 4.0 Resources Page Access
+ ### 4.0 Resources Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
@@ -46,7 +46,7 @@ Automation test scripts for www.convoculture.ca
     1.7: Print: "Test passed" in console.
     1.8: End script.
     
- ## 5.0 Jobs Page Access
+ ### 5.0 Jobs Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
@@ -56,7 +56,7 @@ Automation test scripts for www.convoculture.ca
     1.7: Print: "Test passed" in console.
     1.8: End script.
     
- ## 6.0 Contact Page Access
+ ### 6.0 Contact Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
     1.3: Go to: http://www.convoculture.ca.
