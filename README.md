@@ -79,4 +79,4 @@ Automation test scripts for www.convoculture.ca
     1.8: End script.
     
  ## Functionality Tests
- TBD
+ TBD (Purchasing lessons, applying to jobs, filling out contact form, using forum)
