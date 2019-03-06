@@ -4,8 +4,8 @@ Automation test scripts for www.convoculture.ca
 ![alt_text](https://github.com/frostie/Convo-Culture-Test-Automation/blob/master/ConvoCulture_Logo.PNG)
 
 # Tools
-- Selenium WebDriver
 - Java
+- Selenium WebDriver
 
 # Test Scripts
 ## Access Tests
