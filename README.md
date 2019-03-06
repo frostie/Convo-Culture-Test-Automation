@@ -75,3 +75,6 @@ Automation test scripts for www.convoculture.ca
     1.6: Exit browser.
     1.7: Print: "Test passed" in console.
     1.8: End script.
+    
+ ## Functionality Tests
+ TBD
