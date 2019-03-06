@@ -34,3 +34,25 @@ Automation test scripts for www.convoculture.ca
     1.6: Exit browser.
     1.7: Print: "Test passed" in console.
     1.8: End script.
+
+ ## 4.0 Resources Page Access
+    1.1: Open Safari browser.
+    1.2: Maximize browser screen.
+    1.3: Go to: http://www.convoculture.ca.
+    1.4: Click on 'Resources' link.
+    1.5: Wait 3 seconds.
+    1.6: Exit browser.
+    1.7: Print: "Test passed" in console.
+    1.8: End script.
+    
+ ## 5.0 Jobs Page Access
+    1.1: Open Safari browser.
+    1.2: Maximize browser screen.
+    1.3: Go to: http://www.convoculture.ca.
+    1.4: Click on 'Jobs' link.
+    1.5: Wait 3 seconds.
+    1.6: Exit browser.
+    1.7: Print: "Test passed" in console.
+    1.8: End script.
+    
+    
