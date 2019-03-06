@@ -6,6 +6,7 @@ Automation test scripts for www.convoculture.ca
 - Java
 
 # Test Scripts
+## Access Tests
 ## 1.0 Home Page Access
     1.1: Open Safari browser.
     1.2: Maximize browser screen.
