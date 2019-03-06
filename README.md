@@ -7,6 +7,11 @@ Automation test scripts for www.convoculture.ca
 - Java
 - Selenium WebDriver
 
+# Next Actions
+- Finish scripts for page access tests
+- Begin writing functionality tests
+- Create result reports
+
 # Test Scripts
 ## Access Tests
 ### 1.0 Home Page Access
