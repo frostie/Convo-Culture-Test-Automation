@@ -1,5 +1,5 @@
 # Convo-Culture-Test-Automation
-Automation test scripts for www.convoculture.ca
+Automation framework and test scripts for www.convoculture.ca
 
 ![alt_text](https://github.com/frostie/Convo-Culture-Test-Automation/blob/master/ConvoCulture_Logo.PNG)
 
