@@ -10,6 +10,7 @@ Automation test scripts for www.convoculture.ca
 - Cucumber
 
 # Next Actions
+- Develop testing framework
 - Finish scripts for page access tests
 - Begin writing functionality tests
 - Create result reports
