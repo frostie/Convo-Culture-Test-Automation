@@ -8,7 +8,7 @@ public class ContactForm
 {
 
     public static void GoToContactPage() throws InterruptedException
-        
+
     {
 
         WebDriver driver = new SafariDriver();
@@ -17,6 +17,7 @@ public class ContactForm
         Thread.sleep(3000);
         driver.quit();
         System.out.println("GoToContactPage Test passed!");
+
     }
 
     public static void SubmitEnquiry() throws InterruptedException
