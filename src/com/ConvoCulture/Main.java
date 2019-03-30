@@ -11,14 +11,23 @@ public class Main
 
     {
 
-        //HomePage.GoToHomePage();
-        //ContactForm.GoToContactPage();
+    // ***HOME PAGE TEST***
+
+        HomePage.GoToHomePage();
+
+    // ***CONTACT PAGE TESTS***
+
+        ContactForm.GoToContactPage();
+
         ContactForm.SubmitEnquiry();
-        //GoToAboutPage();
-        //GoToLessonsPage();
-        //GoToResourcesPage();
-        //GoToJobsPage();
-       //GoToForum();
+
+    // ***FORUM PAGE TESTS***
+
+        Forum.GoToForumPage();
+
+        Forum.LoginForum();
+
+        Forum.CreateForumPost();
 
     }
 
