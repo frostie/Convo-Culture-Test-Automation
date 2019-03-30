@@ -8,6 +8,7 @@ public class ContactForm
 {
 
     public static void GoToContactPage() throws InterruptedException
+        
     {
 
         WebDriver driver = new SafariDriver();
