@@ -1,31 +1,26 @@
 package com.ConvoCulture;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.safari.SafariDriver;
 
 public class Main
 {
 
     public static void main(String[] args) throws InterruptedException
-    {
-        GoToHomePage();
-        GoToAboutPage();
-        GoToLessonsPage();
-        GoToResourcesPage();
-        GoToJobsPage();
-        GoToContactPage();
-        GoToForum();
-    }
 
-    public static void GoToHomePage() throws InterruptedException
     {
-        WebDriver driver = new SafariDriver();
-        driver.get("http://www.convoculture.ca");
-        driver.manage().window().maximize();
-        Thread.sleep(3000);
-        driver.quit();
-        System.out.println("Test passed!");
+
+        HomePage.GoToHomePage();
+        //GoToAboutPage();
+        //GoToLessonsPage();
+        //GoToResourcesPage();
+        //GoToJobsPage();
+        //GoToContactPage();
+       //GoToForum();
+
     }
 
     public static void GoToAboutPage() throws InterruptedException
