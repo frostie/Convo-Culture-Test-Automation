@@ -13,6 +13,7 @@ Automation framework and test scripts for www.convoculture.ca
 - Develop testing framework
 - Write functionality tests
 - Create result reports
+- Draft 'Functionality Tests' section
 
 # Test Scripts
 ## Access Tests
