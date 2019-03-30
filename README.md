@@ -11,7 +11,7 @@ Automation framework and test scripts for www.convoculture.ca
 
 # Next Actions
 - Develop testing framework
-- Begin writing functionality tests
+- Write functionality tests
 - Create result reports
 
 # Test Scripts
