@@ -7,10 +7,11 @@ Automation framework and test scripts for www.convoculture.ca
 - Java
 - Selenium WebDriver
 - TestNG
-- Cucumber
+- Cucumber (TBD)
 
 # Next Actions
 - Develop testing framework
+    - Create DriverManager class which handles driver creation and website navigation. 
 - Write functionality tests
 - Draft 'Functionality Tests' section
 - Create result reports
